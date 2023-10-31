@@ -64,3 +64,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# Docker Setup
+
+This repository contains the Docker setup for the project.
+
+## Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Docker: [Install Docker](https://docs.docker.com/get-docker/)
+- Docker Compose: [Install Docker Compose](https://docs.docker.com/compose/install/)
+
+## Getting Started
+
+To get started with the Docker setup, follow these steps:
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Ahmed-Wagih/parent-task.git
